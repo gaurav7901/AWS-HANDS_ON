@@ -13,4 +13,4 @@
 🔹 AWS | Azure | Linux | Java | JavaScript | GitHub | Docker | Terraform  
 
 📫 **Let's Connect:**  
-🔗 [LinkedIn](https://linkedin.com/in/gaurav-gaikwad-link) | 🔥 [GitHub](https://github.com/gaurav-7901)  
+🔗 [LinkedIn](https://linkedin.com/in/gaurav-gaikwad-link) | 🔥 [GitHub](https://github.com/gaurav7901)  
